@@ -19,7 +19,7 @@ header {
 }
 
 /* Estilo para a lista não ordenada */
-ul {
+.portifolio {
   list-style-type: none; /* Remove os marcadores padrão da lista */
   padding: 0; /* Remove o preenchimento padrão da lista */
 }
